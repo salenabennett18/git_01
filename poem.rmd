@@ -15,7 +15,14 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+  
+THERE are certain things - as, a spider, a ghost,  
+The income-tax, gout, an umbrella for three -  
+That I hate, but the thing that I hate the most  
+Is a thing they call the Sea.  
+  
+Pour some salt water over the floor -  
+  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
