@@ -18,6 +18,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+  
+Look what it is to have forgotten  
+the torn coat of  “Vecchia Zimarra”  
+from Puccini’s  La bohème and to remember  
+the other coats from Mt. Horeb on down,  
+and look what it is to give your own coat away,  
+  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
